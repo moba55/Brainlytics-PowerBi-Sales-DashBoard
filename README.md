@@ -27,6 +27,6 @@ This repository documents my solution submission for the **Brainlytics Hackathon
 ✔ Insight Communication 
 
 
-[Orain team Dashboard.pdf](https://github.com/user-attachments/files/23568380/Orain.team.Dashboard.pdf)
+<img width="1280" height="720" alt="dashboard" src="https://github.com/user-attachments/assets/9f689ec7-aceb-441c-a7d8-c61672e1c270" />
 
 
