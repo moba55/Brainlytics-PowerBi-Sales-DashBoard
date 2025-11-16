@@ -20,6 +20,11 @@ This repository includes the exact files submitted for the competition.
 This repository documents my solution submission for the **Brainlytics Hackathon**, showcasing my skills in:
 
 ✔ Data Cleaning  
+
+
+![final dashboard](https://github.com/user-attachments/assets/96f3e638-312c-4e3b-8a91-8542e8c2e4e6)
+
+
 ✔ Power Query ETL  
 ✔ Data Modeling  
 ✔ DAX Measure Creation  
